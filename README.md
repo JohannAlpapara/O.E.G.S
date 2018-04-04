@@ -13,13 +13,14 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-1. Install XAMPP
-2. Start XAMPP Control Panel
-3. Start Apache and MySQL
-4. Go to localhost/phpmyadmin in your browser
-5. Import grading.sql
-6. Place the files inside grading foler in your htdocs folder
-5. Go to localhost/grading in your browser
+1. Download the repository as zip
+2. Create folder inside xampp/htdocs folder named "grading"
+3. Start XAMPP Control Panel
+4. Start Apache and MySQL
+5. Go to localhost/phpmyadmin in your browser
+6. Import grading.sql (can be found in xampp/htdocs/grading/database)
+7. Place the files inside grading folder in your htdocs folder
+8. Go to localhost/grading in your browser
 
 Admin Account:
 Username: admin
