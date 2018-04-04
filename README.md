@@ -21,6 +21,18 @@ What things you need to install the software and how to install them
 6. Place the files inside grading foler in your htdocs folder
 5. Go to localhost/grading in your browser
 
+Admin Account:
+Username: admin
+Password: admin
+
+Teacher Account:
+Username: 2018-0001
+Password: 2018-0001
+
+Student Account:
+Username: 2018-1001
+Password: 2018-1001
+
 ## Author
 
 * **Johann Alpapara**
