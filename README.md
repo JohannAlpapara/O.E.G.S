@@ -14,10 +14,12 @@ What things you need to install the software and how to install them
 ### Installing
 
 1. Install XAMPP
-2. Place the files inside a folder in htdocs
-3. Start XAMPP Control Panel
-4. Start Apache and MySQL
-5. Go to localhost/<your folder> in your browser
+2. Start XAMPP Control Panel
+3. Start Apache and MySQL
+4. Go to localhost/phpmyadmin in your browser
+5. Import grading.sql
+6. Place the files inside grading foler in your htdocs folder
+5. Go to localhost/grading in your browser
 
 ## Authors
 
@@ -25,7 +27,7 @@ What things you need to install the software and how to install them
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
