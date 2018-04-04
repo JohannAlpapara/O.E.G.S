@@ -21,7 +21,7 @@ What things you need to install the software and how to install them
 6. Place the files inside grading foler in your htdocs folder
 5. Go to localhost/grading in your browser
 
-## Authors
+## Author
 
 * **Johann Alpapara**
 
